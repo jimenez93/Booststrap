@@ -1,0 +1,10 @@
+.foto{
+	margin:0 auto;
+	width:60%;
+}
+
+.row [class^="col"]{
+	background:rgba(233,132,250,0.5);
+	border:0.1em solid #7B0091;
+	padding:0.5em;
+}
